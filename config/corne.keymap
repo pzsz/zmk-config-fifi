@@ -65,7 +65,7 @@
 			bindings = <
 	&trans &trans &trans &trans &trans &trans       &kp TILD    &kp LBRC  &kp RBRC  &trans      &trans   &trans
 	&trans &trans &trans &trans &trans &trans       &kp PIPE    &kp LBKT  &kp RBKT  &kp LT      &kp GT   &trans
-	&trans &trans &trans &trans &trans &kp TILD     &kp AMPS    &kp LPRN  &kp RPRN  &kp SCLN    &kp BSLH &trans
+	&trans &trans &trans &trans &trans &kp TILD     &kp AMPS    &kp LPRN  &kp RPRN  &kp QUOT    &kp BSLH &trans
 	                     &trans &trans &trans            &trans  &trans    &trans 
 			>;
 		};
